@@ -1,4 +1,11 @@
 {
-	"userId":1,
-	"userName":"Siddhu"
+	"users":[
+	{
+		"userId":1,
+		"userName":"Siddhu"
+	},
+	{
+		"userId":2,
+		"userName":"Sumeet"
+	}
 }
